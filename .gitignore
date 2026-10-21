@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+*.zip
+*.tar.gz
+Thumbs.db
+.DS_Store
